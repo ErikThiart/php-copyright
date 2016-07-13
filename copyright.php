@@ -1,8 +1,12 @@
+<?php
 // Easy single date
+?>
 
 &copy; <?php echo date("Y"); ?> Copyright.
 
+<?php
 // Advanced start and end date
+?>
 
 &copy; <?php
 $copyYear = 2008; // Set your website start date
